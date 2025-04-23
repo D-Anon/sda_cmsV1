@@ -1,0 +1,3 @@
+UPDATE users 
+SET password = SHA2('admin123', 256) 
+WHERE username = 'admin';

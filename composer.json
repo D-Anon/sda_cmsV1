@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twbs/bootstrap-icons": "^1.11",
+        "tecnickcom/tcpdf": "*"
+    }
+}
